@@ -1,0 +1,28 @@
+{
+  "button": {
+    "signin": "Sign in",
+    "signup": "Sign up"
+  },
+  "placeholder": {
+    "username": "Username",
+    "email": "Email",
+    "username_or_email": "Username or email",
+    "password": "Password"
+  },
+  "title": {
+    "signin": "Sign in",
+    "signup": "Sign up",
+    "home": "Home"
+  },
+  "header": {
+    "home": "Home",
+    "english": "English",
+    "russian": "Russian"
+  },
+  "tips": {
+    "not_have_an_account": "Do not have an account yet?",
+    "sign_up_now": "Sign up now",
+    "have_an_account": "Already have an account yet?",
+    "sign_in_now": "Sign in now"
+  }
+}

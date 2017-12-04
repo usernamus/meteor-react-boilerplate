@@ -1,0 +1,28 @@
+{
+  "button": {
+    "signin": "Войти",
+    "signup": "Зарегистрироваться"
+  },
+  "placeholder": {
+    "username": "Имя пользователя",
+    "email": "Почта",
+    "username_or_email": "Имя пользователя или почта",
+    "password": "Пароль"
+  },
+  "title": {
+    "signin": "Войти",
+    "signup": "Зарегистрироваться",
+    "home": "Главная"
+  },
+  "header": {
+    "home": "Главная",
+    "english": "Английский",
+    "russian": "Русский"
+  },
+  "tips": {
+    "not_have_an_account": "Ещё нет аккаунта?",
+    "sign_up_now": "Зарегистрируйся сейчас",
+    "have_an_account": "У вас уже есть аккаунт?",
+    "sign_in_now": "Войдите сейчас"
+  }
+}
